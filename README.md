@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![BBJDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBJDH&theme=vue-dark&show_icons=true)
+![Popolit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Popolit&theme=vue-dark&show_icons=true)
 
 
 <!---
